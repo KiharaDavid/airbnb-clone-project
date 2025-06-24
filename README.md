@@ -61,4 +61,4 @@ Endpoints: /payments/
 Features: Handle payment transactions related to bookings.
 6. Review System
 Endpoints: /reviews/, /reviews/{review_id}/
-Features: Post and manage reviews for properties.
+Features: Post and manage reviews for properties.                                                                                                                                                                                                                                                                                                                ########Api Security#######                                                                                                                                                    Aunthentication-Users will be required to pass a series of identification checks                                                                                              Authorization-Users will have to pass a series of checks to verify and aunthenticate them                                                                                    Client confidentiality is paramount to each and every institute for security purposes.
