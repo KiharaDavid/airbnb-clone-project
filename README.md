@@ -43,7 +43,7 @@ GET /reviews/ - List all reviews
 POST /reviews/ - Create a new review
 GET /reviews/{review_id}/ - Retrieve a specific review
 PUT /reviews/{review_id}/ - Update a specific review
-DELETE /reviews/{review_id}/ - Delete a specific review                                                                                                                            #######Feature Overview######                                                                                                                                              1. API Documentation
+DELETE /reviews/{review_id}/ - Delete a specific review                                                                                                                            #######Feature Breakdown######                                                                                                                                              1. API Documentation
 OpenAPI Standard: The backend APIs are documented using the OpenAPI standard to ensure clarity and ease of integration.
 Django REST Framework: Provides a comprehensive RESTful API for handling CRUD operations on user and property data.
 GraphQL: Offers a flexible and efficient query mechanism for interacting with the backend.
